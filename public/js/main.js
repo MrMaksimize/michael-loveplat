@@ -269,7 +269,6 @@ var prLover = {
       });
       return false;
     });
-    console.log(this.config);
     // Load initial notes set.
     this.getNotes({
       skip: $(this.container).data('loadedNotes'),
