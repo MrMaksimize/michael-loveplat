@@ -16,7 +16,7 @@ module.exports = {
   },
   twitter: {
     shareText: 'I love Sabrina Because',
-    shareHash: 'lovesabrina',
+    shareHash: 'loveAndrew',
   },
   fb: {
     appId: '12345'
