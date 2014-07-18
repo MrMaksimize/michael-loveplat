@@ -1,6 +1,6 @@
 module.exports = {
-  title: 'Sabrina',
-  heading: 'I Love Sabrina Because...',
+  title: 'Andrew',
+  heading: 'I Love Andrew Because...',
   shareUrl: 'http://bit.ly/loveplatform',
   form: {
     textLabel: 'Message',
@@ -15,8 +15,8 @@ module.exports = {
     tweeting: true,
   },
   twitter: {
-    shareText: 'I love Sabrina Because',
-    shareHash: 'lovesabrina',
+    shareText: 'I love Andrew Because',
+    shareHash: 'loveAndrew',
   },
   fb: {
     appId: '12345'
