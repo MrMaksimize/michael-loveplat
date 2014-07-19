@@ -6,9 +6,9 @@ node_js:
 deploy:
   provider: heroku
   api_key:
-    secure: SAMPLE
-  app: loveplatform
+    secure: fhxoVyCaN+uietqHeaxkhjf3/wI6c65oYckFTZZ85M4V8WwQDMtOa0voeQ6U9VyDmpsIL+/+pNVKPQT+wkJag9C/SVNaqq0QILIQK5T/fZo4tEJlt4k41ey89Y20qBm7qKCen4i1kIvPo+FZrR6hUEVT22BK7alQFjzA6Fq0H44=
+  app: sabrinalove
   on:
-    repo: MrMaksimize/lovePlatform
+    repo: msantus/sabrina-loveplatform
   run:
     - restart
