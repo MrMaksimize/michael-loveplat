@@ -15,7 +15,7 @@ module.exports = {
     tweeting: true,
   },
   twitter: {
-    shareText: 'I love Sabrina Because',
+    shareText: 'we love you because',
     shareHash: 'loveAndrew',
   },
   fb: {
