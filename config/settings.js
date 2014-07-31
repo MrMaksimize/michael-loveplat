@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Congrats Jay & Sabrina...We love you guys!  Congrats in your wedding day!',
+  title: 'Congrats Jay & Sabrina...We love you guys!  Congrats on your wedding day!',
   heading: 'We love you because...',
   shareUrl: 'http://bit.ly/sabrina11',
   form: {
